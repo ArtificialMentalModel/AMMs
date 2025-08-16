@@ -210,7 +210,3 @@ logits = extract_logits(model_output)
 - Real-time patient monitoring
 - Multi-center clinical validation
 - Regulatory compliance and approval
-
-## License
-
-This project is released under the MIT License for research purposes.
